@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/e5b8cd33b0157e7c0ba53693040be7f342360bcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_8f4d0f8fd978fe5d7974e407dc25b55f7204773c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ef9c4377f4edc2ddb05cd3ef98b06a7eb45635bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/2f32356ab48edc31a4d48b2029c66ccd698d1c37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_2c8a8f8e21cd8cb0a66e12fa96690af58105bc41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/1002f3e5ba91198e252d2b94209d21fb9cd5be83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_df45327f7574c80c69ed9e42617cbd2f387ad046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-simplexml/2.3.0/978a360e2e1b85b3c3d30fb4230be6eddd8397e4/converter-simplexml-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="978a360e2e1b85b3c3d30fb4230be6eddd8397e4">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/converter-simplexml-2.3.0_454464403292e04a4c4b4dcf4925872c7d07258d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/4a0bf2f253812b8d76b783dc0bc0457ec4159284/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_39a359918eef334c56700f111a28bd6502062a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/98457c696f7e2403c0507aa02bc588122db193d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_4cf3530d20e2ee842ad0315153acae03e61559bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_701550f7448e9d5bedb1fd6280fe64760c633807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/796f23fd432e838868262922ac7765087d727891/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_6777b3f1f905baad980c111457b1664229db6344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1_32446de842a38826e0f032e4fabe85b40345bd4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_db2b82a348bef80bcae931c09d68f1e533a996d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b9c6916078f18c1886531f2ee1351b2620e13bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/573b3d8b404e445214261e050c48d1e5afefd5a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_789329f309fa9ee7b71e276ab9c9df96ae3a54af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/7e7aca6075321c9fb8a3b8c5aea10dea493c6c78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_a0d9f06fac4797d9d23ea961567e4d215e00ae17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.plattysoft.leonids/LeonidsLib/1.3.1/465bff5ee3634af14128a1341a20cee246e4b1c1/LeonidsLib-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="465bff5ee3634af14128a1341a20cee246e4b1c1">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/LeonidsLib-1.3.1_abdb4e94df63633a95b70d66ce342d9d290fe24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/9b80c3733c25b14ed525e2e13d92b00897542e19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_7be6ceaa48a4f0c58f3c89af595d5f9f4a5c2bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/84572b78fdbe05d894708b4ce89241ad47a25438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_7c85aa849d14f91761cc40a4769c13e9583fbab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/e5e20e06843eedc67528d3d30807f432628ff8b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_550408e687de88a26b75e8c2452c8a53e8648132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_659b053173111ecdcf8af9d5c4d99309ebce84fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/leoncam/.android/build-cache/8d37a417af1aa67b9f92d02f7c40f972bd4d5a55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/leoncam/Downloads/CatDagger/app/build/intermediates/pre-dexed/debug/classes_159794e213e1203808f4465de7b9f6bddba46865.jar" />
+    </item>
+
+</items>
